@@ -1,7 +1,6 @@
 # Full Stack Temperaturas
 
-Carpeta Backend y Frontend
-Fichero docker-compose.yaml
+
 
 
 
