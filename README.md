@@ -1,4 +1,4 @@
-# Examen Arquitecturas Cloud y DevOps
+# Full Stack Temperaturas
 
 Carpeta Backend y Frontend
 Fichero docker-compose.yaml
